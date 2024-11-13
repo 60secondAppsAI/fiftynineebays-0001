@@ -1,0 +1,40 @@
+{
+  "packages": [
+    {
+      "name": "starter",
+      "price": "119",
+      "package": [
+        { "name": "2 team members", "access": true },
+        { "name": "20GB cloud storage", "access": true },
+        { "name": "Integration help", "access": false },
+        { "name": "Sketch files", "access": false },
+        { "name": "API access", "access": false },
+        { "name": "Complete documentation", "access": false }
+      ]
+    },
+    {
+      "name": "premium",
+      "price": "159",
+      "package": [
+        { "name": "10 team members", "access": true },
+        { "name": "40GB cloud storage", "access": true },
+        { "name": "Integration help", "access": true },
+        { "name": "Sketch files", "access": true },
+        { "name": "API access", "access": false },
+        { "name": "Complete documentation", "access": false }
+      ]
+    },
+    {
+      "name": "enterprice",
+      "price": "399",
+      "package": [
+        { "name": "Unlimited team members", "access": true },
+        { "name": "100GB cloud storage", "access": true },
+        { "name": "Integration help", "access": true },
+        { "name": "Sketch files", "access": true },
+        { "name": "API access", "access": true },
+        { "name": "Complete documentation", "access": true }
+      ]
+    }
+  ]
+}
